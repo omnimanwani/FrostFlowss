@@ -1,7 +1,3 @@
-Here's an updated **README** file that includes a **References** section:
-
----
-
 # **IcyOmni FrostFlow Budget Optimizer**
 
 ## **Introduction**
@@ -86,7 +82,3 @@ This project demonstrates the successful application of advanced optimization te
 - [GeeksForGeeks](https://www.geeksforgeeks.org/grey-wolf-optimization-introduction/)
 - [NPTEL IIT Guwahati](https://www.youtube.com/watch?v=Aq4pwGn5uWY&t=351s)
 - [Wikipedia](https://en.wikipedia.org/wiki/Multi-objective_optimization)
-
----
-
-This **README** file provides a comprehensive overview of your project, including references that back up the methodologies and techniques used.
