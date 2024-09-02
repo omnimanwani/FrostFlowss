@@ -3,7 +3,7 @@
 ## **Introduction**
 This project focuses on optimizing budget distribution across multiple advertising channels, including Google Ads, Microsoft Ads, and Meta Ads. The primary objective is to allocate the budget in a way that maximizes conversions while minimizing costs.
 
-[Updated Link for colab] (https://colab.research.google.com/drive/1QoHyfHExe3NAVgiuFSBlh7DE7MJM_NbB?usp=sharing)
+[Updated Link for colab](https://colab.research.google.com/drive/1QoHyfHExe3NAVgiuFSBlh7DE7MJM_NbB?usp=sharing)
 
 ### **Problem Statement**
 **AI-Driven Media Investment Plan Across Channels for E-commerce to Maximize Customer Conversion Rate.**
